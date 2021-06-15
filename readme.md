@@ -1,6 +1,6 @@
 # Regras Telegram
 
-Quem somos e o que fazemos?
+## Quem somos e o que fazemos?
 Wakanda Streamers é um projeto nascido em 2018 e tem como principal objetivo reunir e dar suporte à comunidade preta. 
 Uma rede de apoio, troca de experiências, incentivos, orientações, divulgação, ensino, assessoria, etc.
 Para cumprir seus objetivos de modo a servir à comunidade preta da melhor maneira, a iniciativa se apoia em 3 segmentos: jurídico, psicológico e pedagógico.
@@ -20,28 +20,8 @@ Para um criar um ambiente respeitoso e acolhedor pedimos que LEIAM e SIGAM as re
 
 Criamos um ambiente de acolhimento e prezamos pela igualdade e respeito a todes, sendo assim tais atitudes não serão toleradas, as regras são válidas independente de onde ocorra (Redes sociais, Grupos de Whatsapp, Livestream, Offstream, etc...)
 
-Como utilizar o discord e entender seus espaços.
+Como utilizar esse grupo de forma que seja agradável a todos:
 
-#📜o-projeto-e-regras  - informações gerais e regras!
-#✊equipe  - conheça a equipe e suas áreas.
-
-#📰divulgando-o-projeto - como você pode ajudar a divulgar a Wakanda.
-#📧time-wkds - como fazer parte dos times na twitch e em outras plataformas.
-#📂stream-pack  - stream-pack disponível para baixar e utilizar gratuitamente. 
-#💬faq-dúvidas - veja as perguntas frequentes e tire suas dúvidas. 
-#📮sugestões  - deixe suas sugestões aqui!
-
-#🐆wakanda_notícias - o que esta acontecendo na Wakanda, deixe seus likes, curta e compartilhe.
-#🟢projetos-ativos - projetos ativos atualmente e seus funcionamentos.
-#📝demandas-equipe - precisamos de ajuda sempre! fique de olho caso queira fazer parte do voluntariado e entrar na equipe!
-
-#💬bate-papo-geral - espaço para conversar, passar tempo e se divertir dentro da nossa comunidade.
-#🎮matchmaking - encontre e forme grupos de jogos.
-
-#💻divulgação-conteúdo - divulgue seu conteúdo, live em qualquer plataforma bem aqui.
-#💼divulgação-trampo - divulgue seu trabalho, artes, portfólio, currículo nesta área.
-#🎬divulgação-de-clipes - deixe os clipes da sua live aqui.
-#❗jogos_e_conteúdo_gratuito - jogos e conteúdos gratuitos para toda a comunidade. 
 
 :pushpin:  INFORMAÇÕES IMPORTANTES
 Atualmente você se encontra na fase de "Portões da Wakanda", isso significa que esta em espera para ter acesso completo ao restante do discord! 
