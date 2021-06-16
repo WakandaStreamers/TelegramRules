@@ -44,9 +44,15 @@ Como utilizar esse grupo de forma que seja agradável a todos:
 
 :pushpin:  INFORMAÇÕES IMPORTANTES
 
+<<<<<<< HEAD
 
 # Quais são as redes sociais da Wakanda Streamers?
 :small_blue_diamond:Site : https://www.wakandastreamers.com.br/
+=======
+Quais são as redes sociais da Wakanda Streamers?
+
+:small_blue_diamond:[Site](https://www.wakandastreamers.com.br/)
+>>>>>>> a7458d7b3f0b0c8fb87eafd6893d1091e0a9ef00
 :small_blue_diamond:Twitter: https://bit.ly/wkdtt
 :small_blue_diamond:Discord: https://bit.ly/wkddsc 
 :small_blue_diamond:Instagram: https://bit.ly/wkdinsta 
