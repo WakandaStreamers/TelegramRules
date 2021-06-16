@@ -29,7 +29,8 @@ Não se preocupe, você recebe uma notificação assim que for aprovado!
 Fique a vontade para utilizar o #💬chat_recepção  para conversar, tirar dúvidas e participar da nossa comunidade! 
 
 Quais são as redes sociais da Wakanda Streamers?
-:small_blue_diamond:Site : https://www.wakandastreamers.com.br/
+
+:small_blue_diamond:[Site](https://www.wakandastreamers.com.br/)
 :small_blue_diamond:Twitter: https://bit.ly/wkdtt
 :small_blue_diamond:Discord: https://bit.ly/wkddsc 
 :small_blue_diamond:Instagram: https://bit.ly/wkdinsta 
