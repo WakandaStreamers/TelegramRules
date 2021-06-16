@@ -48,14 +48,12 @@ Como utilizar esse grupo de forma que seja agradável a todos:
 :small_blue_diamond:Site : https://www.wakandastreamers.com.br/
 =======
 Quais são as redes sociais da Wakanda Streamers?
-
-:small_blue_diamond:[Site](https://www.wakandastreamers.com.br/)
->>>>>>> a7458d7b3f0b0c8fb87eafd6893d1091e0a9ef00
-:small_blue_diamond:Twitter: https://bit.ly/wkdtt
-:small_blue_diamond:Discord: https://bit.ly/wkddsc 
-:small_blue_diamond:Instagram: https://bit.ly/wkdinsta 
-:small_blue_diamond:Facebook: https://bit.ly/wkdfbk 
-:small_blue_diamond:Grupo Facebook: https://bit.ly/wkdfbgr 
-:small_blue_diamond:Playlist Spotify: https://bit.ly/wkdfy
-:small_blue_diamond:Equipe Twitch: https://bit.ly/wkdtwitch 
-:small_blue_diamond:YouTube: (em breve)
+- :small_blue_diamond:[Site](https://www.wakandastreamers.com.br/)
+- :small_blue_diamond:Twitter: https://bit.ly/wkdtt
+- :small_blue_diamond:Discord: https://bit.ly/wkddsc 
+- :small_blue_diamond:Instagram: https://bit.ly/wkdinsta 
+- :small_blue_diamond:Facebook: https://bit.ly/wkdfbk 
+- :small_blue_diamond:Grupo Facebook: https://bit.ly/wkdfbgr 
+- :small_blue_diamond:Playlist Spotify: https://bit.ly/wkdfy
+- :small_blue_diamond:Equipe Twitch: https://bit.ly/wkdtwitch 
+- :small_blue_diamond:YouTube: (em breve)
