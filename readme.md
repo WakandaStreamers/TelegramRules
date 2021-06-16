@@ -35,9 +35,7 @@ Para um criar um ambiente respeitoso e acolhedor pedimos que LEIAM e SIGAM as re
 
 `7- Antes de postar algo, SE INFORME sobre a sala onde você pode postar seu conteúdo.`
 
-``` 
-Criamos um ambiente de acolhimento e prezamos pela igualdade e respeito a todes, sendo assim tais atitudes não serão toleradas, as regras são válidas independente de onde ocorra (Redes sociais, Grupos de Whatsapp, Livestream, Offstream, etc...)
-```
+`Criamos um ambiente de acolhimento e prezamos pela igualdade e respeito a todes, sendo assim tais atitudes não serão toleradas, as regras são válidas independente de onde ocorra (Redes sociais, Grupos de Whatsapp, Livestream, Offstream, etc...)`
 
 Como utilizar esse grupo de forma que seja agradável a todos:
 
