@@ -45,8 +45,8 @@ Como utilizar esse grupo de forma que seja agradável a todos:
 <<<<<<< HEAD
 
 # Quais são as redes sociais da Wakanda Streamers?
-:small_blue_diamond:Site : https://www.wakandastreamers.com.br/
-=======
+- :small_blue_diamond: Site : https://www.wakandastreamers.com.br/
+
 Quais são as redes sociais da Wakanda Streamers?
 - :small_blue_diamond:[Site](https://www.wakandastreamers.com.br/)
 - :small_blue_diamond:Twitter: https://bit.ly/wkdtt
