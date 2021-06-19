@@ -42,7 +42,6 @@ Como utilizar esse grupo de forma que seja agradável a todos:
 
 :pushpin:  INFORMAÇÕES IMPORTANTES
 
-<<<<<<< HEAD
 
 # Quais são as redes sociais da Wakanda Streamers?
 - :small_blue_diamond: Site : https://www.wakandastreamers.com.br/
