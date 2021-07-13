@@ -34,9 +34,6 @@ Para um criar um ambiente respeitoso e acolhedor pedimos que LEIAM e SIGAM as re
 `Criamos um ambiente de acolhimento e prezamos pela igualdade e respeito a todes, sendo assim tais atitudes não serão toleradas, as regras são válidas independente de onde ocorra (Redes sociais, Grupos de Whatsapp, Livestream, Offstream, etc...)`
 
 # Quais são as redes sociais da Wakanda Streamers?
-- :small_blue_diamond: Site : https://www.wakandastreamers.com.br/
-
-Quais são as redes sociais da Wakanda Streamers?
 - :small_blue_diamond:[Site](https://www.wakandastreamers.com.br/)
 - :small_blue_diamond:Twitter: https://bit.ly/wkdtt
 - :small_blue_diamond:Discord: https://bit.ly/wkddsc 
