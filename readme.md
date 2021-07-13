@@ -1,9 +1,7 @@
 # Regras Telegram
 Boas vindas ao chat geral da Wakanda Streamers. Confira as regras para o melhor convívio:
-- Dê boas-vindas a novos membros;
+- Sempre que possível, dê boas-vindas a novos membros;
 - Evite atravessar assuntos em andamento. Guarde para depois (ou mande inbox se a pessoa te der permissão);
-- Evitar spam de links em um curto período de tempo;
-- É permitido links com temas relevantes para a comunidade prete;
 - É PROIBIDO links de divulgação de livestream de games (use o chat de Divulgação do Discord);
 - PROIBIDO assédio e divulgação em mensagens privada dos participantes desse chat;
 - Ficar no vácuo dói. Seja a pessoa que responde, mesmo que seja com emoji.
@@ -27,21 +25,13 @@ Para um criar um ambiente respeitoso e acolhedor pedimos que LEIAM e SIGAM as re
 
 `3- NÃO PERTURBAR ou ASSEDIAR membros deste servidor em mensagens privadas;`
 
-`4- PROIBIDO divulgar (compartilhar links) ou promover as lives fora dos canais específicos;`
+`4- PROIBIDO divulgar (compartilhar links) ou promover as lives;`
 
 `5- RESPEITO aos participantes dos chats e canais de voz;`
 
 `6- CUIDADO com piadas e brincadeiras;`
 
-`7- Antes de postar algo, SE INFORME sobre a sala onde você pode postar seu conteúdo.`
-
 `Criamos um ambiente de acolhimento e prezamos pela igualdade e respeito a todes, sendo assim tais atitudes não serão toleradas, as regras são válidas independente de onde ocorra (Redes sociais, Grupos de Whatsapp, Livestream, Offstream, etc...)`
-
-Como utilizar esse grupo de forma que seja agradável a todos:
-
-
-:pushpin:  INFORMAÇÕES IMPORTANTES
-
 
 # Quais são as redes sociais da Wakanda Streamers?
 - :small_blue_diamond: Site : https://www.wakandastreamers.com.br/
